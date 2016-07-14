@@ -69,6 +69,8 @@ https://github.com/mckoch/sdaw-import
 Version 0.4/0.7stable/0.9b open
 jQuery, gmaps
 
+https://github.com/mckoch/gdm-api-sdaw 
+
 
 #### sdxist.exe
 
@@ -77,12 +79,6 @@ Windows Forms, C#.
 
 https://github.com/mckoch/sdxist 
 
-## Roadmap
-
-* Dokumentation Format / XML-Schemen 
-* Packaging bestehender Komponenten
-* Dokumentation & HowTo
-* Basic Release Package / CVS
 
 
 ----------
