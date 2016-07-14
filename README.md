@@ -52,6 +52,8 @@ Trotz der intensiven Nutzung des Formats sind nur wenige Werkzeuge verfügbar. D
 Version 0.4dev/0.7stable open
 PHP5, ADODB
 
+https://github.com/mckoch/geodatamapper 
+
 #### GDM SDAW Importmodul
 
 Version 0.7stable open
@@ -70,6 +72,7 @@ jQuery, gmaps
 SDAW File Reader & Converter, win32 binary, 1.0beta1 (Preprozessor)
 Windows Forms, C#.
 
+https://github.com/mckoch/sdxist 
 
 ## Roadmap
 
