@@ -59,6 +59,8 @@ https://github.com/mckoch/geodatamapper
 Version 0.7stable open
 PHP5, ADODB
 
+https://github.com/mckoch/sdaw-import
+
 ### Interfacekomponenten
 
 #### GDM API Browser Interface
