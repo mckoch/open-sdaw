@@ -53,6 +53,7 @@ Version 0.4dev/0.7stable open
 PHP5, ADODB
 
 https://github.com/mckoch/geodatamapper 
+API Beschreibung: https://github.com/mckoch/geodatamapper/blob/master/GM%20API%20Beschreibung.pdf
 
 #### GDM SDAW Importmodul
 
