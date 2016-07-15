@@ -80,7 +80,7 @@ https://github.com/mckoch/sdxist
 
 ### Anmerkungen
 
-Sämtliche Datenformate werden per XML konfiguriert und sind somit serverseitig übergreifend verfügbar, unabhängig vom verwendeten Importformat.. 
+Sämtliche Datenformate werden per XML konfiguriert und sind somit serverseitig übergreifend verfügbar, unabhängig vom verwendeten Importformat. Insofern sind die Komponenten unspezifisch gegenüber bestehenden  lat/lng  Daten. 
 
 ----------
 "'Free' in 'free software' has nothing to do with 'free' in 'free beer'." 
