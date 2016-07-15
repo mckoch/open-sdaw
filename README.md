@@ -78,7 +78,9 @@ Windows Forms, C#.
 
 https://github.com/mckoch/sdxist 
 
+### Anmerkungen
 
+Sämtliche Datenformate werden per XML konfiguriert und sind somit serverseitig übergreifend verfügbar, unabhängig vom verwendeten Importformat.. 
 
 ----------
 "'Free' in 'free software' has nothing to do with 'free' in 'free beer'." 
